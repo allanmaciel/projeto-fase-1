@@ -9,7 +9,6 @@ projeto1
 2. git commit -m 'Pagina cliente.html"
 3. git commit -m 'Pagina fornecedor.html"
 4. git commit -m "Criação produto.html"
-5. git commit -m "Criação pagina inicial index.php "
 
 
 2 - Criação repositorio GitHub
